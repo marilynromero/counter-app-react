@@ -1,0 +1,13 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  padding: 60px;
+}
+
+input {
+  color: darkslategrey;
+  font-size: 1.2rem;
+  width: 100%;
+}
